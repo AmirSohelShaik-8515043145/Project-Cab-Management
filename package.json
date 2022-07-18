@@ -1,0 +1,23 @@
+{
+  "name": "project-cab-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirSohelShaik-8515043145/Project-Cab-Management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirSohelShaik-8515043145/Project-Cab-Management/issues"
+  },
+  "homepage": "https://github.com/AmirSohelShaik-8515043145/Project-Cab-Management#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
